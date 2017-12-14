@@ -1,0 +1,140 @@
+D:\C# - проекты\C#  - проекты\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\claustrophobia\bin\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\claustrophobia\bin\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\bin\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\bin\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.LevelForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.SettingsForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.WarningForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.T_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.T_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.T_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.T_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.ReferForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L5.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L6.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L7.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ\claustrophobia\obj\Debug\claustrophobia.L1_L8.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L1.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L2.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L3.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L4.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L5.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L6.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L7.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L8.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.LevelForm.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.ReferForm.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.SettingsForm.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L1.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L2.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L3.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L4.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.WarningForm.resources
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\bin\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L5.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L6.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L7.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.L1_L8.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.LevelForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.ReferForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.SettingsForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.T_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.WarningForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 02.06\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 04.06\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\Бэкап\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\bin\Debug\claustrophobia.exe
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\bin\Debug\claustrophobia.pdb
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L5.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L6.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L7.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.L1_L8.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.LevelForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.ReferForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.SettingsForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.T_L1.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.T_L2.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.T_L3.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.T_L4.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.WarningForm.resources
+D:\C# - проекты\C#  - проекты\КУРСОВАЯ 04.06\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+D:\C# - проекты\claustrophobia\bin\Debug\claustrophobia.exe.config
+D:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.exe
+D:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.pdb
+G:\C# - проекты\claustrophobia\bin\Debug\claustrophobia.exe.config
+G:\C# - проекты\claustrophobia\bin\Debug\claustrophobia.exe
+G:\C# - проекты\claustrophobia\bin\Debug\claustrophobia.pdb
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.csprojResolveAssemblyReference.cache
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L1.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L2.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L3.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L4.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L5.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L6.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L7.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.L1_L8.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.LevelForm.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.loadForm.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.Properties.Resources.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.ReferForm.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.SettingsForm.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.T_L1.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.T_L2.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.T_L3.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.T_L4.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.WarningForm.resources
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.csproj.GenerateResource.Cache
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.exe
+G:\C# - проекты\claustrophobia\obj\Debug\claustrophobia.pdb

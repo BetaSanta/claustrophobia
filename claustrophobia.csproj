@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76141844-41ED-4D5C-B908-7352B2E36EC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>claustrophobia</RootNamespace>
+    <AssemblyName>claustrophobia</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>box_red_8602.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="block.cs" />
+    <Compile Include="L1_L1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L1.Designer.cs">
+      <DependentUpon>L1_L1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L2.Designer.cs">
+      <DependentUpon>L1_L2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L3.Designer.cs">
+      <DependentUpon>L1_L3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L4.Designer.cs">
+      <DependentUpon>L1_L4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L5.Designer.cs">
+      <DependentUpon>L1_L5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L6.Designer.cs">
+      <DependentUpon>L1_L6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L7.Designer.cs">
+      <DependentUpon>L1_L7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1_L8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L1_L8.Designer.cs">
+      <DependentUpon>L1_L8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelForm.Designer.cs">
+      <DependentUpon>LevelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadFonts.cs" />
+    <Compile Include="loadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loadForm.Designer.cs">
+      <DependentUpon>loadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReferForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReferForm.Designer.cs">
+      <DependentUpon>ReferForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoundClass.cs" />
+    <Compile Include="T_L1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_L1.Designer.cs">
+      <DependentUpon>T_L1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_L2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_L2.Designer.cs">
+      <DependentUpon>T_L2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_L3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_L3.Designer.cs">
+      <DependentUpon>T_L3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_L4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_L4.Designer.cs">
+      <DependentUpon>T_L4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WarningForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WarningForm.Designer.cs">
+      <DependentUpon>WarningForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="L1_L1.resx">
+      <DependentUpon>L1_L1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L2.resx">
+      <DependentUpon>L1_L2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L3.resx">
+      <DependentUpon>L1_L3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L4.resx">
+      <DependentUpon>L1_L4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L5.resx">
+      <DependentUpon>L1_L5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L6.resx">
+      <DependentUpon>L1_L6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L7.resx">
+      <DependentUpon>L1_L7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L1_L8.resx">
+      <DependentUpon>L1_L8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelForm.resx">
+      <DependentUpon>LevelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loadForm.resx">
+      <DependentUpon>loadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReferForm.resx">
+      <DependentUpon>ReferForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_L1.resx">
+      <DependentUpon>T_L1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_L2.resx">
+      <DependentUpon>T_L2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_L3.resx">
+      <DependentUpon>T_L3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_L4.resx">
+      <DependentUpon>T_L4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WarningForm.resx">
+      <DependentUpon>WarningForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\london.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bottom.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doors.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RightButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpaceButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeRedBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_start.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="box_red_8602.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
